@@ -1,0 +1,32 @@
+{
+      id: '4b7fa9e0-fd29-4227-ac77-034b57b287fb',
+      name: 'pavan',
+      email: 'pavan@gmail.com',
+      phone: 1234569870,
+      salary: 50000,
+      department: 'HR'
+    },
+    {
+      id: '2db897a2-836e-4346-9b76-6c78510b8c02',
+      name: 'shiva',
+      email: 'shiva@gmail.com',
+      phone: 4569870321,
+      salary: 60000,
+      department: 'IT'
+    },
+    {
+      id: '6f77c131-0105-41a7-b56e-37623d335268',
+      name: 'mukku',
+      email: 'mukku@gmail.com',
+      phone: 3456987021,
+      salary: 70000,
+      department: 'Accounts'
+    },
+    {
+      id: '8418a17e-934c-4f3f-8cfd-b30580ab34d1',
+      name: 'abhi',
+      email: 'abhi@gmail.com',
+      phone: 2345698701,
+      salary: 80000,
+      department: 'HR'
+    },
